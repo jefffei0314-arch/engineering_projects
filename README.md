@@ -21,3 +21,7 @@ This script allows users to estimate open channel flow velocity by providing hyd
 ---
 
 More engineering tools and data-related projects will be added progressively as part of my learning journey.
+
+## Example Output
+
+![Velocity Plot](velocity_plot.png)
